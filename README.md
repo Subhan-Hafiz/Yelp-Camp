@@ -37,8 +37,6 @@ To see the app in action, go to [https://yelpcamp--demo.herokuapp.com/](https://
 
 * Manage user account with basic functionalities:
 
-  * ~~Password reset via email confirmation~~ (disabled)
-
   * Profile page setup with sign-up
 
 * Flash messages responding to users' interaction with the app
@@ -58,12 +56,6 @@ To see the app in action, go to [https://yelpcamp--demo.herokuapp.com/](https://
 ## Getting Started
 
 > This app contains API secrets and passwords that have been hidden deliberately, so the app cannot be run with its features on your local machine. However, feel free to clone this repository if necessary.
-
-### Clone or download this repository
-
-```sh
-git clone https://github.com/lucasweng/yelp-camp.git
-```
 
 ### Install dependencies
 
@@ -112,6 +104,3 @@ Some comments in the source code are course notes and therefore might not seem n
 * [Cloudinary](https://cloudinary.com/)
 * [Heroku](https://www.heroku.com/)
 * [Cloud9](https://aws.amazon.com/cloud9/?origin=c9io)
-## License
-
-#### [MIT](./LICENSE)
